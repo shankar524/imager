@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imager</string>
+    <string name="btn_click">Submit</string>
+    <string name="url">URL</string>
+</resources>
